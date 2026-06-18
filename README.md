@@ -41,11 +41,14 @@ For field or low-resource settings, design an optimized, modular blueprint for a
 
 #### Collaboration & Expertise Needed
 To successfully transition this from a one-pager to an active Public Invention repository, we require support in the following domains:
-Analytical Chemistry / Gas Sensing: An expert to verify the cross-sensitivity of off-the-shelf VOC sensors (such as the BME680 or specialized electrochemical sensors) to halogenated ethers like isoflurane and sevoflurane, establishing calibration parameters.
-IoT/Firmware Developers (Krake Integration): To help write the microcontroller logic for reading the sensor output, mapping it to PPM equivalents, and triggering the notification stack.
+#### Analytical Chemistry / Gas Sensing:
+An expert to verify the cross-sensitivity of off-the-shelf VOC sensors (such as the BME680 or specialized electrochemical sensors) to halogenated ethers like isoflurane and sevoflurane, establishing calibration parameters.
+#### IoT/Firmware Developers (Krake Integration): 
+To help write the microcontroller logic for reading the sensor output, mapping it to PPM equivalents, and triggering the notification stack.
 Mechanical/Industrial Design: To model a 3D-printable chamber housing the  medium alongside a transparent viewing port for colorimetric pH indicators or electronic sensor insertion.
 
 # Immediate Next Steps
-Sensor Validation: Conduct a literature search or simple test bench setup to determine which low-cost electronic sensors reliably react to trace anesthetic gases.
+## Sensor Validation: 
+Conduct a literature search or simple test bench setup to determine which low-cost electronic sensors reliably react to trace anesthetic gases.
 
 
