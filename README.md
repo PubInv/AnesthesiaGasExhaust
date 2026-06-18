@@ -3,8 +3,11 @@ A system to vent away anesthesia gases in pediatric operating rooms run by KidsO
 
 ## Open-Source Anesthetic Gas Safety: Smart Monitoring & Sustainable Scrubbing
 Author: Lawrence Kincheloe
+
 Target Organization: Public Invention (in collaboration with Robert Read & Dave Tipping)
+
 Status: Draft Concept Proposal
+
 License: Creative Commons Attribution 4.0 International (CC-BY-4.0) / MIT (Open Source)
 
 ## Context & Background
@@ -50,5 +53,10 @@ Mechanical/Industrial Design: To model a 3D-printable chamber housing the  mediu
 # Immediate Next Steps
 ## Sensor Validation: 
 Conduct a literature search or simple test bench setup to determine which low-cost electronic sensors reliably react to trace anesthetic gases.
+
+# Research
+
+It seems that halogenated ethers are generally detectable by VOC sensors, if the UV lamp has sufficient energy to ionize them [https://pmc.ncbi.nlm.nih.gov/articles/PMC12115474/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12115474/).
+
 
 
