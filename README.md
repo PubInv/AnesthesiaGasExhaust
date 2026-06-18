@@ -10,10 +10,13 @@ License: Creative Commons Attribution 4.0 International (CC-BY-4.0) / MIT (Open 
 ## Context & Background
 In clinical, veterinary, or research environments, waste anesthetic gases (WAGs)—primarily halogenated ethers like isoflurane, sevoflurane, and desflurane—must be captured and neutralized to prevent environmental release and occupational health hazards.
 The current standard practice utilized by Dave Tipping and others involves passing waste air streams through a chemical absorber bed, typically loaded with Sodium Hydroxide ( / pure lye). While  is cheap, universally accessible, and chemically effective, it acts as a consumable reactant rather than a catalyst. As it binds to the fluorine/chlorine atoms to form mineral salts, it becomes saturated.
-Core Challenges:
-The Blind Spot: There is no automatic indicator or notification when the  bed is saturated (spent), leading to gas breakthrough.
-Ambient Risks: There are no active, low-cost sensors in the workspace to alert personnel if anesthetic gas leaks or escapes into the room.
-Consumable Substitution Paradox: Transitioning to a heated or UV-activated solid-state catalytic system (such as  or Zeolites) eliminates the need for raw , but still generates corrosive hydrogen fluoride () gas, requiring its own sacrificial lime or water-scrubbing consumables.
+### Core Challenges
+#### The Blind Spot: 
+There is no automatic indicator or notification when the  bed is saturated (spent), leading to gas breakthrough.
+#### Ambient Risks: 
+There are no active, low-cost sensors in the workspace to alert personnel if anesthetic gas leaks or escapes into the room.
+#### Consumable Substitution Paradox: 
+Transitioning to a heated or UV-activated solid-state catalytic system (such as  or Zeolites) eliminates the need for raw , but still generates corrosive hydrogen fluoride () gas, requiring its own sacrificial lime or water-scrubbing consumables.
 ## Proposed Open-Source Inventions
 Instead of simply replacing one complex consumable system with another, this project proposes a dual-track approach focusing on smart monitoring (highly accessible IoT sensors) and optimized, smart chemical absorption.
 ### Track A: The IoT Anesthetic Gas Safety Monitor (Ambient Sensor)
