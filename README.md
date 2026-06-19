@@ -1,5 +1,8 @@
-# AnesthesiaGasExhaust
-A system to vent away anesthesia gases in pediatric operating rooms run by KidsOR or others
+# Anesthesia Gas Exhaust
+A system to vent away anesthesia gases in pediatric operating rooms run by [KidsOR](https://www.kidsor.org/) or others
+
+<img width="300" height="142" alt="image" src="https://github.com/user-attachments/assets/8fc68b39-515a-47d8-99cb-2ddd34fe3d73" />
+
 
 ## Open-Source Anesthetic Gas Safety: Smart Monitoring & Sustainable Scrubbing
 Author: Lawrence Kincheloe
