@@ -61,5 +61,14 @@ Conduct a literature search or simple test bench setup to determine which low-co
 
 It seems that halogenated ethers are generally detectable by VOC sensors, if the UV lamp has sufficient energy to ionize them [https://pmc.ncbi.nlm.nih.gov/articles/PMC12115474/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12115474/).
 
+# Some notes from Dave Tipping...
+
+This is absolutely still a problem we need to solve.. and we've been struggling for the last 10 years or so.  Courtney has access to all the information regarding the anesthetic machines, vaporizers and types of agents.. I've got a better handle on the construction of the facilities and what we might need to do to either exhaust externally or to coexist with the general ventilation of some of our spaces.. or where we might need to capture to dispose / recycle.
+
+The one clarification would be the spherasorb / capture in the anaesthetic machines is purely for carbon dioxide in the patient's breath.. this then gets remixed with the oxygen and left-over anesthetic agent(s) and fed back to the patient.. the machine has an exhaust port that in the US / Europe is connected to an 'AGSS" (Anesthetic Gas Scavenging System) that is a pressurized system that is expensive to install and maintain.  In the 140 operating theatres we have installed there have possibly been 10 with AGSS systems.  Where there isn't an AGSS system there can be quite a bit of waste gas exhaust out of the machines into the room!  On modern machines this is kept to a minimum by optimization software which is primarily there to stop wasting money on the agents... but serves as a useful reducer of waste gases into the room.  The vast majority of OR's we have installed and that existing in low- or middle-income countries don't have such systems, and we know anesthetic gases do exhaust into the operating rooms.
+
+We have reports of surgical teams getting drowsy as the day goes on.  Even without such a drastic effect, it is a serious problem having volatile gas discharged into an OR.  We do provide a long length of tubing referred to as a passive scavenging tube.. it comes in 30m lengths and allows us to at least get the gases out of the OR.. and ideally to a vent on an external wall. But it's cumbersome and can be tripped over and get trapped in doorways etc.  If this gets blocked thankfully the machine has a safety blow off valve.. but then we are back to square one. 
+
+
 
 
