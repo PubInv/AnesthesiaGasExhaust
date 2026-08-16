@@ -44,6 +44,9 @@ Pressure, flow, and VOC sensors can be added to make this system somewhat safer 
 
 By placing the fan outside and using an "open interface" connection, we reduce the chance of any negative pressure on the breathing circuit, since
 the interface will be open to the room air.
+One idea is to use an airtight cable cover directly as a duct; these are designed to be less of a trip hazard:
+[cable cover in 25' sections](https://www.uline.com/Product/Detail/H-9961/Cable-Management/Cord-Protector-25-Standard-Black)
+
 
 
 
