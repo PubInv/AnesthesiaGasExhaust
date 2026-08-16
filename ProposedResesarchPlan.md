@@ -73,8 +73,11 @@ $$
 
 Therefore, for the same flow rate and tube length, halving the tube diameter increases the pressure drop by a factor of 16.
 
-
-
+Sanyo-Denki makes a line of centrifugal blowers designed for "high impedance" systems. The basic strategy here is to:
+1. Design the tubing length and diameter,
+2. Decide an appropriate flow range (perhaps 4/L min for the anesthesia gases and more from the room as an "open" system")
+3. Determine the pressure required to produce that flow
+4. Find the intersection point on the pressure-flow curves published by the manufacture to size a blower appropriately.
 
 
 Open questions are:
