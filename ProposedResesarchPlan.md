@@ -80,6 +80,16 @@ Sanyo-Denki makes a line of centrifugal blowers designed for "high impedance" sy
 4. Find the intersection point on the pressure-flow curves published by the manufacture to size a blower appropriately.
 
 
+## Modules
+The hardware modules of this system are:
+1. The gas sensing system
+2. The "open interface"
+3. The ventilation tube/duct
+4. The "outside suction and filter unit"
+
+   
+
+
 Open questions are:
 * Does a thin hose have too much resistance, requiring too powerful a fan?
 * Can we get "flat rectangular tubes" that have a larger area for less of a trip hazard?
