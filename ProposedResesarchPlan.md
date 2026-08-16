@@ -42,8 +42,16 @@ Using an active system allows this to be sealed with pressure-release valves so 
 moisture. 
 Pressure, flow, and VOC sensors can be added to make this system somewhat safer and more efficient. 
 
+By placing the fan outside and using an "open interface" connection, we reduce the chance of any negative pressure on the breathing circuit, since
+the interface will be open to the room air.
+
+
+
+
+
 Open questions are:
 * Does a thin hose have too much resistance, requiring too powerful a fan?
+* Can we get "flat rectangular tubes" that have a larger area for less of a trip hazard?
 * How do we warn the user of pressure and other problems?
 * Can we create a humidity catch?
   
