@@ -45,8 +45,33 @@ Pressure, flow, and VOC sensors can be added to make this system somewhat safer 
 By placing the fan outside and using an "open interface" connection, we reduce the chance of any negative pressure on the breathing circuit, since
 the interface will be open to the room air.
 One idea is to use an airtight cable cover directly as a duct; these are designed to be less of a trip hazard:
-[cable cover in 25' sections](https://www.uline.com/Product/Detail/H-9961/Cable-Management/Cord-Protector-25-Standard-Black)
+[slit cable cover in 25' sections](https://www.uline.com/Product/Detail/H-9961/Cable-Management/Cord-Protector-25-Standard-Black)
+An ["unslit" cabele cover](https://www.filmtools.com/checkers-rubber-duct-protector-10ft-black.htm) version exists which would be airtight for transporting the gases directly. 
 
+Altermatively, round tubing in an 8mm diameter could be placed inside these. In general, the pressure required is proportional to the 4th power of the inverse diameter of the 
+tube, so narrowing the tube requires a larger fan, by the Hagen–Poiseuille relation:
+
+The Hagen–Poiseuille relation:
+
+$$
+\Delta P = \frac{128 \mu L Q}{\pi D^4}
+$$
+
+where:
+
+- $\Delta P$ = pressure drop
+- $\mu$ = dynamic viscosity of the gas
+- $L$ = length of the tube
+- $Q$ = volumetric flow rate
+- $D$ = internal diameter of the tube
+
+The important scaling relationship is:
+
+$$
+\Delta P \propto \frac{1}{D^4}
+$$
+
+Therefore, for the same flow rate and tube length, halving the tube diameter increases the pressure drop by a factor of 16.
 
 
 
