@@ -19,4 +19,31 @@ According to ChatGPT, a combination of the nitrous oxide and an organic anesthes
 anesthesia.
 Activated charcoal filters cannot remove nitrous oxide, but can absorb sevoflurane.
 
-# 
+# Avoiding the Not Invented Here Syndrome....
+It would be easy for us to attempt to solve this problem by creating our own Active Gas Scavenging System (AGSS).
+However, there is no point in us competing with existing commercial vendors. If we find ourselves creating an open source version 
+of an existing tool, we should stop and consider if we are on the right track. 
+In some case, and open-source solution can be cheaper and better than proprietary systems---but the difficulty of manufacturing is 
+so high that this is generally not true of a simple design, even if the design is a good one.
+
+# What is Unique about This Problem
+
+* According to ChatGPT, modern operating theaters typically have a permanent built-in AGSS station in the floor of the ceiling.
+This avoid the trip hazard that is a problem in the KidsOR operating theaters.
+* The KidsOR surgical theaters have limited power, sometimes provided by their own solar system. Excess power for air conditioning may be limited.
+* However, floor space my also be limited
+
+# Modular Solution 
+
+One obvious solution is to use a fan that can provide adequate suction through a relatively thin tube that can be taped to the floor sufficiently to reduce the trip 
+hazard.
+This suction can be used to pull the gases through an "open interface" for safety. An activated carbon filter can placed outside the OR to filter sevoflurane. 
+Using an active system allows this to be sealed with pressure-release valves so that when not in use the activated carbon filter is not saturated by 
+moisture. 
+Pressure, flow, and VOC sensors can be added to make this system somewhat safer and more efficient. 
+
+Open questions are:
+* Does a thin hose have too much resistance, requiring too powerful a fan?
+* How do we warn the user of pressure and other problems?
+* Can we create a humidity catch?
+  
