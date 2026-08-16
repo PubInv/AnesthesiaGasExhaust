@@ -3,7 +3,9 @@ A system to vent away anesthesia gases in pediatric operating rooms run by [Kids
 
 <img width="300" height="142" alt="image" src="https://github.com/user-attachments/assets/8fc68b39-515a-47d8-99cb-2ddd34fe3d73" />
 
-
+## Proposed Research Plan
+After reading the introduction below, you may want to read our 
+[Proposed Research Plan](https://github.com/PubInv/AnesthesiaGasExhaust/blob/main/ProposedResesarchPlan.md).
 ## Open-Source Anesthetic Gas Safety: Smart Monitoring & Sustainable Scrubbing
 Author: Lawrence Kincheloe
 
